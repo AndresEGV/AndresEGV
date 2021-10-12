@@ -1,6 +1,6 @@
 
 ### Hola a todos 👋
-<p><em>FullStack Developer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></br>
+<p><em>FullStack Developer </br></br>
 <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mí
 
 
