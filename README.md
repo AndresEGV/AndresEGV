@@ -1,6 +1,6 @@
 
 ### Hola a todos 👋
-<p><em>FullStack Developer </br></br>
+<p><em>Analista Programador </br></br>
 <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mí
 
 
