@@ -11,9 +11,7 @@ const andres = {
   code: [Javascript, HTML, CSS, Node, Express],
   db: [MYSQL, postgresql, mongodb, firebase]
   tools: [React, Redux, Styled-Components, Vue, Vuex],
-  profession: [Musico, analista programador]
-
- 
+  profession: [Musico, analista programador] 
 }
 ```
   
