@@ -9,7 +9,8 @@
 const andres = { 
   fullName: 'Andres Gomez Vega'
   code: [Javascript, HTML, CSS, Node, Express],
-  tools: [React, Redux, Styled-Components, Docker],
+  db: [MYSQL, postgresql, mongodb, firebase]
+  tools: [React, Redux, Styled-Components, Vue, Vuex],
   profession: [Musico, analista programador]
 
  
@@ -28,8 +29,6 @@ const andres = {
   
 #### Contacto!
 
-
-
-📷 [instagram][instagram]  
+  
 👔 [linkedin][https://www.linkedin.com/in/analistaprogramador-andres-gomez/]
 
