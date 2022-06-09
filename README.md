@@ -1,10 +1,11 @@
 
-### Hi I'm Andres 👋 👨‍💻
+### Hi Everyone 👋 👨‍💻
 ![banner (1)](https://user-images.githubusercontent.com/72934827/172896217-e23e6f35-579e-42b6-a308-4e6891c62e57.jpg)
 
-<p><em>Analista Programador </br></br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Andres.;I'm+a+Fullstack+Developer.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 
+## About me in code
 
 ```js
 const andres = { 
@@ -31,3 +32,4 @@ const andres = {
   
 👔 [linkedin][https://www.linkedin.com/in/analistaprogramador-andres-gomez/]
 
+<img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
