@@ -2,7 +2,7 @@
 ### Hi Everyone 👋 👨‍💻
 ![banner (1)](https://user-images.githubusercontent.com/72934827/172896217-e23e6f35-579e-42b6-a308-4e6891c62e57.jpg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Andrés Gómez.;I'm+a+Fullstack+Developer.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Andrés+Gómez.;I'm+a+Fullstack+Developer.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 
 ## About me in code
