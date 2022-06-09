@@ -1,8 +1,9 @@
 
-### Hola a todos 👋
+### Hi I'm Andres 👋 👨‍💻
+![banner (1)](https://user-images.githubusercontent.com/72934827/172896217-e23e6f35-579e-42b6-a308-4e6891c62e57.jpg)
+
 <p><em>Analista Programador </br></br>
 <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mí
-
 
 
 ```js
