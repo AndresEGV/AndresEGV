@@ -5,12 +5,12 @@
 
 
 
-```javascript
+```js
 const andres = { 
-  fullName: 'Andres Gomez Vega'
+  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Node, Express],
   db: [MYSQL, postgresql, mongodb, firebase]
-  tools: [React, Redux, Styled-Components, Vue, Vuex],
+  tools: [React, Redux, Styled-Components, Jest, Docker],
   profession: [Musico, analista programador] 
 }
 ```
